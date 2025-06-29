@@ -1,0 +1,50 @@
+
+.BBB-menu-image{
+    height: 70vh;
+    padding: 20px;
+}
+
+.explore-menu-section-items{
+    background-image: radial-gradient(#00FF00,#FFFF00);
+}
+
+.menu-tiffin-items-bg{
+    background-image: url("https://res.cloudinary.com/dpuymlvrr/image/upload/v1751129150/IMG-9380_omqxgm.jpg");
+    background-size: cover;
+}
+
+.menu-items-title{
+    color: red;
+    font-family: serif;
+    font-size: 34px;
+    font-weight: 700;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu-items{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: green;
+    text-align: center;
+}
+
+.menu-items-prize{
+    color: yellow;
+}
+
+.menu-starters-items-bg{
+    background-image: url("https://res.cloudinary.com/dpuymlvrr/image/upload/v1751129150/honey_chilli_paneer-8_6_lboti9.jpg");
+    background-size: cover;
+}
+
+.menu-noodles-items-bg{
+    background-image: url("https://res.cloudinary.com/dpuymlvrr/image/upload/v1751195806/high-angle-tasty-composition-noodles-table_23-2148803860_wcyxkp.jpg");
+    background-size: cover;
+}
+
+.menu-main-course-items-bg{
+    background-image: url("https://res.cloudinary.com/dpuymlvrr/image/upload/v1751195805/Vegetable-Dum-Biryani-recipe_ygfpxb.jpg");
+    background-size: cover;
+}
